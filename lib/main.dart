@@ -32,7 +32,7 @@ class _MyHomePageState extends State<MyHomePage> {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
-        title: Text("FlutterBeards",
+        title: Text("FlutterBeads",
             style: TextStyle(color: Colors.black, fontWeight: FontWeight.bold)),
         // backgroundColor: Colors.black,
 
